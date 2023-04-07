@@ -28,9 +28,13 @@ The project includes the following visualizations:
 ![bokeh_plot (6)](https://user-images.githubusercontent.com/117792685/230554807-3b127039-76ba-4bef-a55f-53fcbc34fdb2.png)
 
 3. Scatter plot of cryptocurrency clusters based on the original data.
+
+![bokeh_plot (8)](https://user-images.githubusercontent.com/117792685/230555099-7bbc97d3-e218-49f3-89af-f276e1631ead.png)
+
 4. Scatter plot of cryptocurrency clusters based on the PCA data.
 
-![bokeh_plot (8)](https://user-images.githubusercontent.com/117792685/230554966-641ca4c7-de26-4533-956f-18b710ecb189.png)
+![bokeh_plot (9)](https://user-images.githubusercontent.com/117792685/230555151-77b912b3-e036-45ad-b7ef-974caf18f869.png)
+
 
 ## Conclusion
 
