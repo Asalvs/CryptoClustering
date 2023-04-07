@@ -20,9 +20,17 @@ The Crypto Clustering project aims to predict if cryptocurrencies are affected b
 The project includes the following visualizations:
 
 1. Elbow curve for the original data.
+
+ ![bokeh_plot (5)](https://user-images.githubusercontent.com/117792685/230554676-7874d2ec-2c98-483a-9ec8-b9d48734ea8c.png)
+
 2. Elbow curve for the PCA data.
+
+![bokeh_plot (6)](https://user-images.githubusercontent.com/117792685/230554807-3b127039-76ba-4bef-a55f-53fcbc34fdb2.png)
+
 3. Scatter plot of cryptocurrency clusters based on the original data.
 4. Scatter plot of cryptocurrency clusters based on the PCA data.
+
+![bokeh_plot (8)](https://user-images.githubusercontent.com/117792685/230554966-641ca4c7-de26-4533-956f-18b710ecb189.png)
 
 ## Conclusion
 
